@@ -5,7 +5,6 @@
 
   export default defineConfig({
     plugins: [react()],
-    base:'/otiumlanding_v3/',
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
